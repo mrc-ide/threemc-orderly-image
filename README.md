@@ -2,7 +2,7 @@
 
 [![Build status](https://badge.buildkite.com/6a023cde961638e7779fe0458d216e582f98181b37d2d4e519.svg)](https://buildkite.com/mrc-ide/threemc-orderly-image)
 
-This is the docker container for [mrc-ide/?](https://github.com/mrc-ide/threemc-orderly).
+This is the docker container for [mrc-ide/threemc-orderly](https://github.com/mrc-ide/threemc-orderly).
 
 This repo is a fork of [`montagu-orderly`](https://github.com/vimc/montagu-orderly) with minor modifications
 
