@@ -7,4 +7,4 @@ else
     shift
 fi
 
-docker exec -it orderly_web_orderly $CMD $*
+docker exec -it threemc_orderly $CMD $*
